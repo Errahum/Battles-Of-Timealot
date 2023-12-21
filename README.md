@@ -3,6 +3,7 @@ Dans un monde médiéval et magique, il existe un royaume nommé Timealot, rest�
 
 Incarnez une armée entère!
 Combats en 1V1 en vue du dessus axé sur la stratégie et les interactions entre classes.
+![battle_of_timelot](https://github.com/Sahurows/Battles-Of-Timealot/assets/74726406/2c9cec71-b0e8-4070-86b4-807cce074527)
 
 
 # Batailles de Timealot bande-annonce vidéo:
