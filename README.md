@@ -7,8 +7,11 @@ Combats en 1V1 en vue du dessus axé sur la stratégie et les interactions entre
 ![battle_of_timelot](https://github.com/Sahurows/Battles-Of-Timealot/assets/74726406/2c9cec71-b0e8-4070-86b4-807cce074527)
 
 
-# Batailles de Timealot bande-annonce vidéo:
-[![Alt text]()
+# Bande d'annonce:
+[![Alt text](https://i.ytimg.com/an_webp/7j_MWPAahvs/mqdefault_6s.webp?du=3000&sqp=CKT8lqwG&rs=AOn4CLCmSRlUdW4SHzsYRP4hRvam2vr4cQ)](https://www.youtube.com/watch?v=7j_MWPAahvs)
+
+# Gameplay:
+[![Alt text](https://i.ytimg.com/an_webp/oCn8L-AfHkM/mqdefault_6s.webp?du=3000&sqp=CMeLl6wG&rs=AOn4CLDhTOk156wybCMIVrvHor5pSSO8_g)](https://www.youtube.com/watch?v=oCn8L-AfHkM)
 
 # Game Engine:
 Unreal Engine 5
