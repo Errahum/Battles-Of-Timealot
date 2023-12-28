@@ -8,10 +8,10 @@ Combats en 1V1 en vue du dessus axé sur la stratégie et les interactions entre
 
 
 # Bande d'annonce:
-[![Alt text](https://i.ytimg.com/an_webp/7j_MWPAahvs/mqdefault_6s.webp?du=3000&sqp=COSZrKwG&rs=AOn4CLBXSdCLq7x4Yyx7MXM-2RxUtm3Xsg)](https://www.youtube.com/watch?v=7j_MWPAahvs)
+[![Alt text](https://i.imgur.com/XTVvtxd.gif)](https://www.youtube.com/watch?v=7j_MWPAahvs)
 
 # Gameplay:
-[![Alt text](https://i.ytimg.com/an_webp/oCn8L-AfHkM/mqdefault_6s.webp?du=3000&sqp=CJKSrKwG&rs=AOn4CLACWSJUUFqlL2sQCP6Va_jYT_qL5Q)](https://www.youtube.com/watch?v=oCn8L-AfHkM)
+[![Alt text](https://i.imgur.com/2qNkuMo.gif)](https://www.youtube.com/watch?v=oCn8L-AfHkM)
 
 # Game Engine:
 Unreal Engine 5
