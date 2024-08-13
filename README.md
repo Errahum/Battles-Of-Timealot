@@ -32,3 +32,4 @@ Tao: Level design, level art, éclairage
 Quentin: Montage de la bande-annonce, UI/UX
 
 Alexei : VFX, intégration d'animation
+
